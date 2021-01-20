@@ -406,3 +406,7 @@ Insert the correct syntax to add a placeholder for the age parameter.
 age = 36
 txt = "My name is John, and I am  "
 print(txt.format(age))
+
+Exercise:
+Use a variable to represent a person's name and print a message to that person. Your message should be 
+simple such as "Hello Eric, would you like to learn some python today?"
